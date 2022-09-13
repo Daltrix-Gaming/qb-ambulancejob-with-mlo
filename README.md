@@ -11,3 +11,5 @@ Location of two new hospitals with new mlos.
 1. 1835.27 3679.13 34.27   <-- Sandy Shore.
 2.-251.06 6335.07 32.44    <-- Paleto Bay.
 
+Process and Preview :
+https://youtu.be/_l2GdQ6lrmg
